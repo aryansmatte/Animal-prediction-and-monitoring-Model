@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>9fa6936484.jpg</filename>
+	<path>E:\yolo_project\data_preparation\data_images\9fa6936484.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>712</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>25</ymin>
+			<xmax>691</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

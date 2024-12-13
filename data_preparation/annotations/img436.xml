@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final_data</folder>
+	<filename>img436.jpg</filename>
+	<path>C:\Users\lant\Desktop\illegal_poacher_detection\final_data\img436.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>117</ymin>
+			<xmax>548</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

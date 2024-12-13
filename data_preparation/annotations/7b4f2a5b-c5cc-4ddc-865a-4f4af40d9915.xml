@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>7b4f2a5b-c5cc-4ddc-865a-4f4af40d9915.jpeg</filename>
+	<path>E:\yolo_project\data_preparation\data_images\7b4f2a5b-c5cc-4ddc-865a-4f4af40d9915.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1039</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>56</ymin>
+			<xmax>1483</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,23 @@
+train: data_images/train
+val: data_images/test
+nc: 4
+names: [
+        'Tiger',
+        'Elephant',
+        'Deer',
+        'Rhinoceros',
+        'poacher',
+        'ranger',
+        'gun',
+        'rhino',
+        'elephant',
+        'deer',
+        'backpack',
+        'tiger',
+        'wolf',
+        'bag',
+        'umbrella',
+        'car', 
+        'motorcycle',
+        'dog'
+]

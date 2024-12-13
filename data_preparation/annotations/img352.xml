@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final_data</folder>
+	<filename>img352.jpg</filename>
+	<path>C:\Users\lant\Desktop\illegal_poacher_detection\final_data\img352.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>203</ymin>
+			<xmax>496</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>020773fcda.jpg</filename>
+	<path>E:\yolo_project\data_preparation\data_images\020773fcda.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2832</width>
+		<height>4256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>532</ymin>
+			<xmax>2832</xmax>
+			<ymax>3528</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>cbd08a8918.jpg</filename>
+	<path>E:\yolo_project\data_preparation\data_images\cbd08a8918.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1140</width>
+		<height>712</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>7</ymin>
+			<xmax>1012</xmax>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+</annotation>

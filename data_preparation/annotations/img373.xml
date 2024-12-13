@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final_data</folder>
+	<filename>img373.jpg</filename>
+	<path>C:\Users\lant\Desktop\illegal_poacher_detection\final_data\img373.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>280</ymin>
+			<xmax>583</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

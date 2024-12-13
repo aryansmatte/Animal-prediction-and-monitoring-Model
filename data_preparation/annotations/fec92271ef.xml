@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>fec92271ef.jpg</filename>
+	<path>E:\yolo_project\data_preparation\data_images\fec92271ef.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1122</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>540</xmin>
+			<ymin>296</ymin>
+			<xmax>1079</xmax>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+</annotation>
