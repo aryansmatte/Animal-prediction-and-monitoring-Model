@@ -4,19 +4,19 @@
 ## Installation 
 1. Move into "Animal-prediction-and-monitoring-Model" folder
 <pre>
-  <button onclick="navigator.clipboard.writeText('cd desktop')"> <code>cd Animal-prediction-and-monitoring-Model</code></button>
+  <button onclick="navigator.clipboard.writeText('cd desktop')"><code>cd Animal-prediction-and-monitoring-Model</code></button>
 </pre>
 2. Install requirements.txt files
 <pre>
-  <button onclick="navigator.clipboard.writeText('cd desktop')"> <code> npm install requirements.txt </code></button>
+  <button onclick="navigator.clipboard.writeText('cd desktop')"><code>npm install requirements.txt</code></button>
 </pre>
 3. Enter the virtual environment for running jupyter notebook
 <pre>
-  <button onclick="navigator.clipboard.writeText('cd desktop')"> <code> .\yolo_venv\Scripts\activate</code></button>
+  <button onclick="navigator.clipboard.writeText('cd desktop')"><code>.\yolo_venv\Scripts\activate</code></button>
 </pre>
 4. Run the jupyter notebook
 <pre>
-  <button onclick="navigator.clipboard.writeText('cd desktop')"> <code>jupyter notebook </code></button>
+  <button onclick="navigator.clipboard.writeText('cd desktop')"><code>jupyter notebook</code></button>
 </pre>
 5. Go to "2_Predictions"
 6. Now go to "yolo_predictions" for image clssification
