@@ -22,3 +22,8 @@
 6. Now go to "yolo_predictions" for image clssification
 7. For video go to "02_predictions" for video based classification.
 8. Run 1st and 2nd block skip all other and directly run last block in"02_predictions" for code to work.
+
+   ## Screenshots
+
+Input
+
