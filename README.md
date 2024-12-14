@@ -4,5 +4,5 @@
 ## Installation 
 <pre>
   <code>cd desktop</code>
-  <button onclick="navigator.clipboard.writeText('cd desktop')">Copy</button>
+  <button onclick="navigator.clipboard.writeText('cd desktop')"></button>
 </pre>
