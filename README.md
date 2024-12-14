@@ -25,15 +25,15 @@
 
    ## Screenshots
 
-###Input
+##Input
 ![Screenshot 2024-11-11 164701](https://github.com/user-attachments/assets/051fcb7b-777a-4e43-9345-cf926f2392d4)
 
-###Output
+##Output
 ![Screenshot 2024-11-11 164626](https://github.com/user-attachments/assets/c69e9c8b-e7a6-4b78-9330-69bf4a674f92)
 
 
-###Input
+##Input
 ![Screenshot 2024-11-22 011948](https://github.com/user-attachments/assets/527e67f3-d451-4c20-830a-bacba31c47cc)
 
-###Output
+##Output
 ![Screenshot 2024-11-22 011921](https://github.com/user-attachments/assets/6fa97428-cf40-473a-b531-20f8f465a7a3)
