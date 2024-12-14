@@ -26,4 +26,7 @@
    ## Screenshots
 
 Input
+![Screenshot 2024-11-11 164701](https://github.com/user-attachments/assets/051fcb7b-777a-4e43-9345-cf926f2392d4)
+
+Output
 
